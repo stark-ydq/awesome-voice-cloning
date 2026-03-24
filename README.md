@@ -44,6 +44,8 @@ Below is a hastily coded python script to convert graphemes to phonemes in files
 
 #### Tools
 
+[voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI
+
 [Noice's Watson Speech To Text Tool](https://github.com/noicevice/watson-speech-to-text)
 
 [ASSFAP](https://colab.research.google.com/drive/18lBRBWOs4uV1DjhoW_fVzoydYUw400PW#scrollTo=ZfO2MFo2qrMi)
