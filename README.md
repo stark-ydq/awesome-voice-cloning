@@ -48,6 +48,8 @@ Below is a hastily coded python script to convert graphemes to phonemes in files
 
 [ASSFAP](https://colab.research.google.com/drive/18lBRBWOs4uV1DjhoW_fVzoydYUw400PW#scrollTo=ZfO2MFo2qrMi)
 
+[voicetoinstrument.com](https://voicetoinstrument.com) - AI-powered tool to convert voice into instrumental tracks.
+
 [Scripp's Guide](datasets/scripps-thoughts.md)
 
 Use ffmpeg to convert your wav files to the right format:
